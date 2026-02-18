@@ -54,11 +54,11 @@ export default function Home() {
           <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-12 items-center min-h-[550px]">
             <div className="space-y-6">
               <h1 className="text-5xl md:text-6xl lg:text-7xl font-black leading-tight text-white">
-                Add X to Playtonic.<br />
+                Add X to Playtomic.<br />
                 Unlock Your Club's Revenue Potential.
               </h1>
               <p className="text-gray-300 text-lg leading-relaxed max-w-2xl">
-                Turn your existing Playtonic CRM into an intelligent revenue engine with AI-powered player grouping, smart messaging, and real-time monetization.
+                Turn your existing Playtomic CRM into an intelligent revenue engine with AI-powered player grouping, smart messaging, and real-time monetization.
               </p>
               <Button className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white font-bold px-8 py-6 text-base">
                 GET THE AI ADVANTAGE
@@ -98,10 +98,10 @@ export default function Home() {
         <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h2 className="text-4xl md:text-5xl font-black text-white">
-              Turn Playtonic Data Into Revenue With X
+              Turn Playtomic Data Into Revenue With X
             </h2>
             <p className="text-gray-300 text-lg leading-relaxed">
-              ADXTOMIC is an AI-powered revenue layer built specifically for Playtonic clubs.
+              ADXTOMIC is an AI-powered revenue layer built specifically for Playtomic clubs.
             </p>
             <p className="text-gray-300 text-lg leading-relaxed">
               It connects to your CRM, analyzes player behavior, and activates revenue opportunities automatically.
@@ -133,7 +133,7 @@ export default function Home() {
               <div className="md:skew-x-12 p-8 space-y-6 h-full">
                 <h3 className="text-2xl md:text-3xl font-black text-white">Step 1 — Connect</h3>
                 <p className="text-gray-300 text-base leading-relaxed">
-                  Seamlessly integrates with your Playtonic CRM. No disruption to your existing operations.
+                  Seamlessly integrates with your Playtomic CRM. No disruption to your existing operations.
                 </p>
               </div>
             </div>
@@ -332,7 +332,7 @@ export default function Home() {
               Clubs that adopt AI-driven monetization fill faster, retain longer, and scale easier.
             </p>
             <p className="text-gray-300 text-lg leading-relaxed">
-              ADXTOMIC gives your club the X Factor — the intelligent advantage built directly on top of Playtonic.
+              ADXTOMIC gives your club the X Factor — the intelligent advantage built directly on top of Playtomic.
             </p>
           </div>
         </div>
@@ -393,7 +393,7 @@ export default function Home() {
       <section className="relative bg-black py-16 md:py-24 px-6 md:px-12 lg:px-24">
         <div className="max-w-4xl mx-auto space-y-8 text-center">
           <h2 className="text-3xl md:text-5xl font-black text-purple-400">
-            Seamless Playtonic Integration
+            Seamless Playtomic Integration
           </h2>
           <p className="text-gray-300 text-lg leading-relaxed">
             No switching systems.
@@ -401,7 +401,7 @@ export default function Home() {
             No complex onboarding.
           </p>
           <p className="text-gray-300 text-lg leading-relaxed">
-            ADXTOMIC enhances your existing Playtonic environment — without disrupting your workflow.
+            ADXTOMIC enhances your existing Playtomic environment — without disrupting your workflow.
           </p>
           <p className="text-gray-300 text-lg leading-relaxed">
             Setup takes minutes. Revenue starts compounding immediately.
@@ -416,7 +416,7 @@ export default function Home() {
             Stop Managing. <span className="text-cyan-400">Start Monetizing.</span>
           </h2>
           <p className="text-gray-300 text-xl leading-relaxed">
-            Add X to your Playtonic CRM and unlock the revenue layer your club is missing.
+            Add X to your Playtomic CRM and unlock the revenue layer your club is missing.
           </p>
           <Button className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white font-bold px-10 py-10 text-lg">
             UPGRADE YOUR CLUB WITH X
@@ -473,7 +473,7 @@ export default function Home() {
           {/* Description and Copyright */}
           <div className="border-t border-gray-800 pt-8 space-y-4">
             <p className="text-gray-400 text-sm leading-relaxed">
-              ADXTOMIC is an independent revenue optimization layer built to integrate with Playtonic. Designed for forward-thinking clubs.
+              ADXTOMIC is an independent revenue optimization layer built to integrate with Playtomic. Designed for forward-thinking clubs.
             </p>
             <p className="text-gray-500 text-xs">
               ADXTOMIC © Copyright 2026
